@@ -1,0 +1,18 @@
+Listado 10 ejercicios para programar en lenguaje C, categorizados en tres niveles de dificultad: fácil, nivel medio y nivel medio-difícil.
+
+Nivel fácil:
+1. Suma de dos números: Escribe un programa que solicite al usuario dos números enteros y muestre la suma de los dos números.
+2. Números pares e impares: Crea un programa que solicite al usuario un número entero y determine si es par o impar.
+3. Cálculo del área de un triángulo: Implementa un programa que solicite al usuario la base y la altura de un triángulo y calcule su área.
+
+Nivel medio:
+7. Verificación de palíndromos: Escribe un programa que solicite al usuario una cadena de texto y determine si es un palíndromo. Un palíndromo es una palabra, frase o número que se lee igual de izquierda a derecha y de derecha a izquierda, como "radar" o "anita lava la tina".
+5. Ordenamiento de un arreglo: Escribe un programa que ordene un arreglo de números enteros de forma ascendente utilizando el algoritmo de selección.
+6. Cálculo del factorial: Crea un programa que solicite al usuario un número entero y calcule su factorial utilizando una función recursiva.
+7. Conversión de decimal a binario: Implementa un programa que convierta un número decimal ingresado por el usuario a su equivalente en binario utilizando un enfoque iterativo.
+
+Nivel medio-difícil:
+8. Juego de adivinar el número: Escribe un programa que genere un número aleatorio y permita al usuario adivinarlo. El programa debe dar pistas indicando si el número ingresado es mayor o menor que el número generado.
+9. Cálculo de la suma de dígitos: Implementa un programa que solicite al usuario un número entero y calcule la suma de sus dígitos de manera recursiva.
+10. Cifrado César: Crea un programa que solicite al usuario una cadena de texto y un número de desplazamiento, y cifre el mensaje utilizando el cifrado César.
+  
