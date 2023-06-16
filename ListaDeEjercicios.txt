@@ -1,18 +1,18 @@
-Listado 10 ejercicios para programar en lenguaje C, categorizados en tres niveles de dificultad: fácil, nivel medio y nivel medio-difícil.
+Listado 10 ejercicios para programar en lenguaje C, categorizados en tres niveles de dificultad: fï¿½cil, nivel medio y nivel medio-difï¿½cil.
 
-Nivel fácil:
-1. Suma de dos números: Escribe un programa que solicite al usuario dos números enteros y muestre la suma de los dos números.
-2. Números pares e impares: Crea un programa que solicite al usuario un número entero y determine si es par o impar.
-3. Cálculo del área de un triángulo: Implementa un programa que solicite al usuario la base y la altura de un triángulo y calcule su área.
+Nivel fï¿½cil:
+1. Suma de dos nï¿½meros: Escribe un programa que solicite al usuario dos nï¿½meros enteros y muestre la suma de los dos nï¿½meros.
+2. Nï¿½meros pares e impares: Crea un programa que solicite al usuario un nï¿½mero entero y determine si es par o impar.
+3. Cï¿½lculo del ï¿½rea de un triï¿½ngulo: Implementa un programa que solicite al usuario la base y la altura de un triï¿½ngulo y calcule su ï¿½rea.
 
 Nivel medio:
-7. Verificación de palíndromos: Escribe un programa que solicite al usuario una cadena de texto y determine si es un palíndromo. Un palíndromo es una palabra, frase o número que se lee igual de izquierda a derecha y de derecha a izquierda, como "radar" o "anita lava la tina".
-5. Ordenamiento de un arreglo: Escribe un programa que ordene un arreglo de números enteros de forma ascendente utilizando el algoritmo de selección.
-6. Cálculo del factorial: Crea un programa que solicite al usuario un número entero y calcule su factorial utilizando una función recursiva.
-7. Conversión de decimal a binario: Implementa un programa que convierta un número decimal ingresado por el usuario a su equivalente en binario utilizando un enfoque iterativo.
+4. Verificaciï¿½n de palï¿½ndromos: Escribe un programa que solicite al usuario una cadena de texto y determine si es un palï¿½ndromo. Un palï¿½ndromo es una palabra, frase o nï¿½mero que se lee igual de izquierda a derecha y de derecha a izquierda, como "radar" o "anita lava la tina".
+5. Ordenamiento de un arreglo: Escribe un programa que ordene un arreglo de nï¿½meros enteros de forma ascendente utilizando el algoritmo de selecciï¿½n.
+6. Cï¿½lculo del factorial: Crea un programa que solicite al usuario un nï¿½mero entero y calcule su factorial utilizando una funciï¿½n recursiva.
+7. Conversiï¿½n de decimal a binario: Implementa un programa que convierta un nï¿½mero decimal ingresado por el usuario a su equivalente en binario utilizando un enfoque iterativo.
 
-Nivel medio-difícil:
-8. Juego de adivinar el número: Escribe un programa que genere un número aleatorio y permita al usuario adivinarlo. El programa debe dar pistas indicando si el número ingresado es mayor o menor que el número generado.
-9. Cálculo de la suma de dígitos: Implementa un programa que solicite al usuario un número entero y calcule la suma de sus dígitos de manera recursiva.
-10. Cifrado César: Crea un programa que solicite al usuario una cadena de texto y un número de desplazamiento, y cifre el mensaje utilizando el cifrado César.
+Nivel medio-difï¿½cil:
+8. Juego de adivinar el nï¿½mero: Escribe un programa que genere un nï¿½mero aleatorio y permita al usuario adivinarlo. El programa debe dar pistas indicando si el nï¿½mero ingresado es mayor o menor que el nï¿½mero generado.
+9. Cï¿½lculo de la suma de dï¿½gitos: Implementa un programa que solicite al usuario un nï¿½mero entero y calcule la suma de sus dï¿½gitos de manera recursiva.
+10. Cifrado Cï¿½sar: Crea un programa que solicite al usuario una cadena de texto y un nï¿½mero de desplazamiento, y cifre el mensaje utilizando el cifrado Cï¿½sar.
   
